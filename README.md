@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar site e agora estou aprendendo sobre repositorio 
 
-<a href= "https://gabriell311.gituhb.io/html-css/exercicios/ex001/index.html"> Executar o exercicio 001<a>
+<a href= "https://gabriell311.github.io/html-css/exercicios/ex001/index.html"> Executar o exercicio 001<a>
